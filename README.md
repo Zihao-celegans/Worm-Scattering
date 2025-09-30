@@ -3,7 +3,7 @@
 Worm-Scattering is a repository hosting supplementary material for the manuscript entitled **"Mechanisms of surface and volume light
 scattering from *Caenorhabditis elegans* revealed by angle-resolved measurements"** authored by **Zihao (John) Li** and **Christopher Fang-Yen** from the Department of Biomedical Engineering, The Ohio State University.
     
-The paper has been published at BioRxiv.
+The paper has been published at [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678386v1).
 
 Worm-Scattering is hosted on Github, the repository can be viewed and cloned at:
     [https://github.com/Zihao-celegans/Worm-Scattering](https://github.com/Zihao-celegans/Worm-Scattering)
