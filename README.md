@@ -9,7 +9,7 @@ Worm-Scattering is hosted on Github, the repository can be viewed and cloned at:
     [https://github.com/Zihao-celegans/Worm-Scattering](https://github.com/Zihao-celegans/Worm-Scattering)
 
 ## Dataset S1
-Raw data for the plots presented in the paper.
+Raw data for this paper.
 ## Design File S1
 Design files (in STEP format) for the 3D models representing *C. elegans* and its surroundings.
 ## Software S1
