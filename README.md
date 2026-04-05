@@ -16,3 +16,5 @@ Design files (in STEP format) for the 3D models representing *C. elegans* and it
 Source files (in ZMX and ZPL format) for conducting the optical simulations using the non-sequential mode in Ansys Zemax OpticStudio 2024 R2.
 ## Software S2
 Source MATLAB scripts for the data analysis performed in this study.
+## Table S1
+Spreadsheets containing statistical details (in CSV format) for the results shown in this paper.
