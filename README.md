@@ -17,4 +17,4 @@ Source files (in ZMX and ZPL format) for conducting the optical simulations usin
 ## Software S2
 Source MATLAB scripts for the data analysis performed in this study.
 ## Table S1
-Spreadsheets containing statistical details (in CSV format) for the results shown in this paper.
+Spreadsheets containing statistical details (in XLSX format) for the results shown in this paper.
