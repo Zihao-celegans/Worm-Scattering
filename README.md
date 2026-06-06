@@ -64,13 +64,13 @@ MATLAB `.mat` files containing cross-sectional intensity profiles and the Edge-t
 
 ## Design File S1
 
-STEP-format 3D CAD files for the object geometries used in Zemax optical simulation: `Worm.step` (worm body), `Agar.step` (agar substrate), `Gel_pad_low.step` and `Gel_socket_low.step` (components of index-matching gelatin media), `WaterFilm_Low.step` (water film around the worm). These files must be copied to the Zemax CAD files folder before running Software S1.
+STEP-format 3D CAD files for the object geometries used in Zemax optical simulation: `Worm.step` (worm body), `Agar.step` (agar substrate), `Gel_pad_low.step` and `Gel_socket_low.step` (components of index-matching gelatin media), `WaterFilm_Low.step` (water film around the worm). These files must be copied to the Zemax CAD files folder before running Software S1. Plain-text copies (`.txt`) of each file are provided for readability without CAD software.
 
 ---
 
 ## Software S1
 
-Ansys Zemax OpticStudio 2024 R2 simulation files. `WormScat.zmx` is the main project file defining the 3D optical system. `WormScat_macro.ZPL` is a ZPL macro that automates simulation runs across illumination angles; the output path must be set before running (instructions inside the file). Pre-computed simulation outputs are provided in `Dataset_S1/Zemax/` and `Dataset_S1/Spatial_distribution/`.
+Ansys Zemax OpticStudio 2024 R2 simulation files. `WormScat.zmx` is the main project file defining the 3D optical system. `WormScat_macro.ZPL` is a ZPL macro that automates simulation runs across illumination angles; the output path must be set before running (instructions inside the file). Pre-computed simulation outputs are provided in `Dataset_S1/Zemax/` and `Dataset_S1/Spatial_distribution/`. Plain-text copies (`WormScat.txt` and `WormScat_macro.txt`) are provided for readability without Zemax OpticStudio.
 
 **Setup:** Copy `.step` files to `Documents\Zemax\Objects\CAD Files` and `WormScat_macro.ZPL` to `Documents\Zemax\Macros`.
 
