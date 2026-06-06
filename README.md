@@ -58,7 +58,7 @@ Each folder contains `data.xlsx` files organized by color of illumination (`red/
 
 ### Spatial_distribution/
 
-MATLAB `.mat` files containing cross-sectional intensity profiles and the Edge-to-Mean Contrast Index as a function of illumination angle. EMCI > 0 indicates scattering stronger at body edges; EMCI < 0 indicates scattering stronger at body center.
+MATLAB `.mat` files containing cross-sectional intensity profiles and the Edge-to-Mean Contrast Index as a function of illumination angle. EMCI > 0 indicates stronger scattering at body edges; EMCI < 0 indicates stronger scattering at body center.
 
 ---
 
