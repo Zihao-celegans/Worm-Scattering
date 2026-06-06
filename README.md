@@ -2,7 +2,8 @@
 
 **Authors:** Zihao (John) Li and Christopher Fang-Yen  
 **Affiliation:** Department of Biomedical Engineering, The Ohio State University  
-**Related publication:** Li Z, Fang-Yen C. "Mechanisms of surface and volume light scattering from *Caenorhabditis elegans* revealed by angle-resolved measurements." *iScience* (2026). [https://doi.org/10.1016/j.isci.2026.116117](https://doi.org/10.1016/j.isci.2026.116117)
+**Related publication:** Li Z, Fang-Yen C. "Mechanisms of surface and volume light scattering from *Caenorhabditis elegans* revealed by angle-resolved measurements." *iScience* (2026). [https://doi.org/10.1016/j.isci.2026.116117](https://doi.org/10.1016/j.isci.2026.116117)  
+[Access this dataset on Dryad](https://doi.org/10.5061/dryad.s1rn8pkpj)
 
 ---
 
@@ -98,8 +99,21 @@ MATLAB scripts for data analysis and figure generation. Requires the **Curve Fit
 
 ---
 
-## Sharing and Access
+## Code/Software
 
-This dataset is deposited on Dryad in support of the manuscript:
+The following software is required to open and run the files in this repository:
+
+- **[Ansys Zemax OpticStudio 2024 R2](https://www.ansys.com/products/optics/ansys-zemax-opticstudio)** — required to open and run the simulation files in `Software_S1/` and to view the 3D geometry files in `Design_File_S1/`.
+- **[MATLAB R2025b](https://www.mathworks.com/products/matlab.html)** — required to run the analysis scripts in `Software_S2/` and to open `.mat` data files in `Dataset_S1/`. Requires the **Curve Fitting Toolbox** and **Statistics and Machine Learning Toolbox**.
+
+---
+
+## Sharing/Access information
+
+Links to other publicly accessible locations of the data: N/A
+
+Data was derived from the following sources: N/A
+
+This dataset is deposited on Dryad ([https://doi.org/10.5061/dryad.s1rn8pkpj](https://doi.org/10.5061/dryad.s1rn8pkpj)) in support of the manuscript:
 
 > Li Z, Fang-Yen C. "Mechanisms of surface and volume light scattering from *Caenorhabditis elegans* revealed by angle-resolved measurements." *iScience* (2026). [https://doi.org/10.1016/j.isci.2026.116117](https://doi.org/10.1016/j.isci.2026.116117)
