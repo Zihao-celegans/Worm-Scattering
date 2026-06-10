@@ -30,7 +30,7 @@ Each subfolder contains a `_README.txt` with brief usage notes for the component
 
 ### Common format: `data.xlsx`
 
-All imaging measurement files are named `data.xlsx` and share four columns: `Position` (cm, LED post reading used to compute illumination angle θ), `Category` (`"worm"` or `"background"`), `Mean` (analog-to-digital units (ADU), mean pixel intensity of the region of interest), and `Exposure` (seconds, camera exposure time). Each row is the measurement for a worm or a background region.
+All imaging measurement files are named `data.xlsx` and share four columns: `Position` (cm, LED post reading used to compute illumination angle θ), `Category` (`"worm"` or `"background"`), `Area` (pixel², area of the region of interest), `Mean` (analog-to-digital units (ADU), mean pixel intensity of the region of interest), `Min` (ADU, minimum pixel intensity of the region of interest), `Max` (ADU, maximum pixel intensity of the region of interest), and `Exposure` (seconds, camera exposure time). Each row is the measurement for a worm or a background region.
 
 ### Imaging data folders
 
